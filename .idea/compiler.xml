@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="im-hi" />
+        <module name="im-server" />
+        <module name="im-ribbon" />
+        <module name="im-feign" />
+        <module name="im-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="im-feign" target="1.8" />
+      <module name="im-hi" target="1.8" />
+      <module name="im-ribbon" target="1.8" />
+      <module name="im-server" target="1.8" />
+      <module name="im-zuul" target="1.8" />
+      <module name="imcould" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="im-feign" options="-parameters" />
+      <module name="im-hi" options="-parameters" />
+      <module name="im-ribbon" options="-parameters" />
+      <module name="im-server" options="-parameters" />
+      <module name="im-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

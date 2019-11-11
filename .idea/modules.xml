@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/im-feign/im-feign.iml" filepath="$PROJECT_DIR$/im-feign/im-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-hi/im-hi.iml" filepath="$PROJECT_DIR$/im-hi/im-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-ribbon/im-ribbon.iml" filepath="$PROJECT_DIR$/im-ribbon/im-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-server/im-server.iml" filepath="$PROJECT_DIR$/im-server/im-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/im-zuul/im-zuul.iml" filepath="$PROJECT_DIR$/im-zuul/im-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imcould.iml" filepath="$PROJECT_DIR$/imcould.iml" />
+    </modules>
+  </component>
+</project>
