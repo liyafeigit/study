@@ -20,7 +20,7 @@
 
 	<properties>
 		<springcloud.version>2.0.3.RELEASE</springcloud.version>
-		<springboot.version>2.0.3.RELEASE</springboot.version>
+		<springboot.version>2.5.12</springboot.version>
 		<hystrix.version>1.4.0.RELEASE</hystrix.version>
 	</properties>
 
